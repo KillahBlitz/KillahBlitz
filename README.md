@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jacobo Montoy, Killah</h1>
+<h1 align="center">Hi 👋, I'm Jacobo Monroy, Killah</h1>
 <h3 align="center">I am from Mexico, I am passionate about programming and I am looking for the development of my skills as a programmer.</h3>
 
 - 🔭 I’m currently working on **Learning different programming languages.**
