@@ -56,7 +56,7 @@
   <a href="https://linkedin.com/in/monroy-cortines-jacobo-emiliano-5395392b9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Jacobo%20Monroy&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="jmonroyc1200@gmail.com" target="_blank">
+  <a href="mailto:jmonroyc1200@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=jmonroyc2100@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/jk_moon1/" target="_blank">
