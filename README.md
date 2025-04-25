@@ -5,7 +5,7 @@
 
 - Actualmente se desarrollar en lenguajes como **C, C++, C#, Python, Matlab, javascript, HTML y CSS.**
 
-- Estoy en busca de **Desarrollo web, Desarrollo Full-Stack y Ciencia de Datos.**
+- Estoy en busca de **Desarrollo web, Desarrollo Full-Stack, Ciencia de Datos y Desarrollo de Redes Neuronales.**
 
 - Puedes ver mis proyectos en mi [Portafolio](https://github.com/KillahBlitz/MY-PORTFOLIO/tree/main)
 
