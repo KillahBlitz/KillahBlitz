@@ -46,8 +46,8 @@
 
 ###
 
-<h3 align="center">Connect with me:</h3>
-<div align="left">
+<h3 align="left">Connect with me:</h3>
+<div align="center">
 </div>
 
 ###
