@@ -47,12 +47,12 @@
 ###
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="left">
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/monroy-cortines-jacobo-emiliano-5395392b9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Jacobo%20Monroy&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
