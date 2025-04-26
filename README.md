@@ -31,8 +31,8 @@
 </div>
 
 ###
-<h3 align="center">Tools:</h3>
-<div align="left">
+<h3 align="left">Tools:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="left">
 </div>
 
