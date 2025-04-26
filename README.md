@@ -62,7 +62,7 @@
   <a href="https://www.instagram.com/jk_moon1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=jk_moon1&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href=""https://discord.gg/killah" target="_blank">
+  <a href="https://discord.gg/killah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=DewKat%204861&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
