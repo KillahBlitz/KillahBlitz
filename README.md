@@ -12,7 +12,7 @@
 - Puedes contactarme por LinkedIn o por mi correo: **jmonroyc2100@gmail.com**
 
 <h3 align="left">Languages:</h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -31,7 +31,7 @@
 </div>
 
 ###
-<h3 align="left">Tools:</h3>
+<h3 align="center">Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
