@@ -48,11 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-</div>
-
-###
-
-<div align="center">
+  <div align="center">
   <a href="https://linkedin.com/in/monroy-cortines-jacobo-emiliano-5395392b9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Jacobo%20Monroy&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -66,8 +62,10 @@
     <img src="https://img.shields.io/static/v1?message=DewKat%204861&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+</div>
 
 ###
+<h3 align="left">Stats and Skills:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killahblitz&show_icons=true&theme=tokyonight" alt="killahblitz" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killahblitz&layout=donut&theme=tokyonight" /></p>
 
 
