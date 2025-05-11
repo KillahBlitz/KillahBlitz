@@ -37,7 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />  
-</div>
 
 ###
 <h3 align="left">Librarys:</h3>
@@ -59,6 +58,8 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="Azure logo"  />
   <img width="12" />
 </div>
+</div>
+
 
 ###
 <h3 align="left">Connect with me:</h3>
