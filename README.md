@@ -12,7 +12,7 @@
 - Puedes contactarme por LinkedIn o por mi correo: **jmonroyc2100@gmail.com**
 
 <h3 align="left">Languages:</h3>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -30,7 +30,7 @@
 
 ###
 <h3 align="left">Frameworks:</h3>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
@@ -41,7 +41,7 @@
 
 ###
 <h3 align="left">Librarys:</h3>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
@@ -52,13 +52,13 @@
 
 ###
 <h3 align="left">Data Base:</h3>
-<div align="center">
+<div align="left">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="sqlserver logo"  />
 </div>
 
 ###
 <h3 align="left">Software:</h3>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
@@ -71,7 +71,7 @@
 
 ###
 <h3 align="left">Cloud:</h3>
-<div align="center">
+<div align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="Azure logo"  />
   <img width="12" />
 </div>
