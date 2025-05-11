@@ -70,3 +70,5 @@
 ###
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killahblitz&show_icons=true&locale=en" alt="killahblitz" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
