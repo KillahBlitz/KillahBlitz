@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="40" alt="vite logo"  />
+  <img width="12" />
 </div>
 
 ###
