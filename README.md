@@ -35,7 +35,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://repository-images.githubusercontent.com/740306031/ffbcc9ef-e2d4-4f49-b8a3-abad4ce9f3d3" height="40" alt="EFcore logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQruntOm4Qzt7D2DSOpCTSwNxbjHOK5L2c8zQ&s" height="40" alt="EFcore logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
