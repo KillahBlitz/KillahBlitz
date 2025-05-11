@@ -68,7 +68,6 @@
 <h3 align="left">Stats and Skills:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killahblitz&show_icons=true&theme=tokyonight" alt="killahblitz" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killahblitz&layout=donut&theme=tokyonight" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=killahblitz&theme=tokyonight" alt="killahblitz" /></p>
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Killahblitz&theme=tokyonight" /></p>
 
 
