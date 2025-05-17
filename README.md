@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://techbagfrontend.s3-ap-south-1.amazonaws.com/logos/wQJX4a6NTjNPqGNbc4mTuN.png" height="40" alt="EFcore logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" height="40" alt="vite logo"  />
   <img width="12" />
