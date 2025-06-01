@@ -60,6 +60,9 @@
 <h3 align="left">Data Base:</h3>
 <div align="left">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="sqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
 </div>
 
 ###
