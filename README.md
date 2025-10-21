@@ -116,5 +116,5 @@
 
 ###
 <h3 align="left">Stats and Skills:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killahblitz&show_icons=true&theme=tokyonight" alt="killahblitz" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KillahBlitz&layout=donut&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" align="center" alt="languages graph" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KillahBlitz&layout=donut&card_width=320&langs_count=10&theme=tokyonight&hide_border=false" align="center" alt="languages graph" /><br><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killahblitz&show_icons=true&theme=tokyonight" alt="killahblitz" /></p>
 <br>
