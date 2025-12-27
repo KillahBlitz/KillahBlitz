@@ -8,7 +8,7 @@
 
 - You can see my projects on my [Portfolio](https://dashing-kelpie-bf1e6e.netlify.app/)
 
--You can contact me via LinkedIn or by email:**jmonroyc2100@gmail.com**
+- You can contact me via LinkedIn or by email: **jmonroyc2100@gmail.com**
 
 
 
